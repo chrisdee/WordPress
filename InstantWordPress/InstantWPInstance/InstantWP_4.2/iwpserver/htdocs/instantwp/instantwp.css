@@ -1,0 +1,174 @@
+body,html {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	height: 100%;
+	width: 100%;
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+
+#container {
+	width: 750px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+}
+
+#container-header {
+	width: 670px;
+	padding: 20px 40px 0px 40px;
+	line-height: 85px;
+	font-size:28px;
+	font-weight:bold;
+	/*border-bottom: 2px solid #E5E5E5;*/
+}
+
+#container-content {
+	width:670px;
+	background-repeat: no-repeat;
+	padding: 20px 10px 0px 10px; 
+	margin: 0 0 0 0;
+	height: auto;
+}
+
+#container-footer a:hover {
+	color: #006AC3;
+}
+
+#footer {
+	font-size: 10px;
+	color: #aeaeae;
+	width: 670px;
+	margin-bottom: 20px;
+	padding-left: 40px;
+}
+
+#footer a {
+	color: #aeaeae;
+}
+
+#footer-copyright {
+	float: left;
+	width: 325px;
+}
+
+
+a {
+	color: blue;
+}
+
+h1 {
+	font-size: 22px;
+	color: #666666;
+	margin: 0 0 0 0;
+	padding: 0px 0 20px 25px;
+	background-image: url(images/h1_arrow.gif);
+	background-repeat: no-repeat;
+	background-position: 5px 7px;
+	line-height: 24px;
+}
+
+
+hr {
+	border: none 0;
+	border-top: 1px solid #cccccc;
+	height: 1px;
+}
+
+th {
+	text-align:left;
+}
+
+.url_textbox{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: center;
+	border: #999 solid 1px;
+	background: #FFF;	
+
+}
+
+.url_button{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: center;
+}
+
+
+.install_data {
+	font-size: 12px;
+	color: #000000;
+}
+
+.install_data a {
+	text-decoration: none;
+	font-weight:bold;
+	padding:3px;
+}
+
+
+.install_data a:hover {
+	text-decoration: underline;
+	padding:3px;
+}
+
+.product_data{
+	font-size: 12px;
+	color: #000000;
+}
+
+.product_data td{
+	padding-left: 5px;
+}
+
+.help_data{
+	font-size: 12px;
+	color: #000000;
+}
+
+.help_data a{
+	text-decoration: none;
+	font-weight:bold;
+}
+
+.help_data a:hover {
+	text-decoration: underline;
+}
+
+.utils_data{
+	font-size: 12px;
+	color: #000000;
+	padding: 3px;
+}
+
+.utils_data a{
+	text-decoration: none;
+	font-weight:bold;
+}
+
+.utils_data a:hover {
+	text-decoration: underline;
+}
+
+
+
+
+th {
+	font-size: 12px;
+	color: #000000;
+	/* border: #999 solid 1px; */
+}
+
+td {
+	font-size: 12px;
+	color: #000000;
+	/* border: #D3D3D3 solid 1px;*/
+}
+
+a:active img {
+    margin: 2px -2px -2px 2px;
+}

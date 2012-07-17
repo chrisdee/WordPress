@@ -1,0 +1,5 @@
+URL: http://www.instantwp.com/download
+
+Version: 4.2
+
+Overview: The directory called 'InstantWPSource' contains a 'blank' container of InstantWP, while 'InstantWPInstance' can be used as a development instance of InstantWP.

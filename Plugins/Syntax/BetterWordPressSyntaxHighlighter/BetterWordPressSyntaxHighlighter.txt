@@ -1,0 +1,3 @@
+URL: http://wordpress.org/extend/plugins/better-wordpress-syntax-based-on-geshi
+
+Version: 1.0.5
